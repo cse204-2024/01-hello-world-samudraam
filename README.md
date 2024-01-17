@@ -13,5 +13,5 @@ There are bonus points available for this assignment, see Canvas for details.
 Once you have your github account, code editor, and git client installed, follow the instructions in Canvas to submit your work.
 
 **Submission Requirements**
-* Github Pages Website URL
-* Github Repository URL
+* Github Pages Website URL: https://cse204-2024.github.io/01-hello-world-samudraam/ 
+* Github Repository URL: https://github.com/cse204-2024/01-hello-world-samudraam
