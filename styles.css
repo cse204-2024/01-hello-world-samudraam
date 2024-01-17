@@ -1,0 +1,12 @@
+body {
+  background: orange;
+  text-align: center;
+}
+
+h1:hover {
+  color: purple;
+}
+
+p {
+  color: blue;
+}
